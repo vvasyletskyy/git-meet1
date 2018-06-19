@@ -1,0 +1,36 @@
+body {
+	text-align: left;
+	background-color: #ffffff
+}
+h1 {
+	font-style: bold;
+	font-size: 36px;
+	font-family: Arial;
+}
+h2{
+font-style: bold;
+	font-size: 18px;
+	font-family: Myriad Pro;
+}	
+p {
+	font-size: 14px;
+	font-family: Arial;
+	color: #333333
+}
+hr {
+	color: #333333;
+	width: 500px;
+}
+img {
+	width:200px; 
+	height:200px;
+	border-image:1px; 
+	border-color:#999999;
+}
+table {
+	margin: auto;
+}
+td .image {
+	display: block;
+	margin: 0 auto;
+}
